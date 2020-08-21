@@ -14,8 +14,6 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
     ]
-  
-Ruby constants are denoted by ALL_CAPS
 end
 
 def literal_aoh
